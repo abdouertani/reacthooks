@@ -1,0 +1,28 @@
+img{
+    width: 18vw;
+    height: 46vh;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+}
+.cards {
+    padding-top: 25px;
+    display: flex;
+ justify-content: space-between;
+ flex-wrap: wrap;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.cardfoot{
+    display: flex;
+    justify-content: space-between;
+    width: 18vw;
+   color: rgb(0, 0, 0);
+   
+   
+}

@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+    background-color: gray;
+    height: 10vh;
+    width: 100vw;
+ justify-content: space-between;    
+ box-shadow: 1px  1px 15px rgb(0, 0, 0);
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    color: white;
+    font-size: 4vh;
+    justify-self: center;
+    padding-left: 500px;
+    align-self: center;
+
+}
+.nav2 button,input{
+    height: 6vh;
+    align-self: center;
+    box-shadow: 1px  1px 5px rgba(0, 0, 0, 0.548);
+}
+.nav2{
+    display: flex;
+    padding-right: 20px;
+justify-content: space-between;
+    justify-self: flex-end;
+    width: 32vw;
+}
+i{
+    font-size: 3.5vh;
+    
+}
+.stars{
+    padding-left: 20px;
+    align-self: center;
+}
